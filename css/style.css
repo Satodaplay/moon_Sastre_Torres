@@ -4,6 +4,18 @@
     background-color: #03045e;
 }
 
+.background_img {
+    background: url(/img/moon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.background_moon {
+    background-color: #7cb3beb4;
+    border: #000;
+}
+
 .blanco {
     color: #fff;
     text-decoration:none;
