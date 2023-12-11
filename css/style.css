@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.background {
+    background-color: #03045e;
+}
+
+.blanco {
+    color: #fff;
+    text-decoration:none;
+}
+
+.letra {
+    font-family: 'Roboto', sans-serif;
+    text-size-adjust: 15px;
+}
+
+.p {
+    padding-inline: 100px;
+    padding-block: 25px;
+}
+
+.nave {
+    padding: 15px;
+}
+
+.nave :hover {
+    background-color: #00b4d8;
+}
