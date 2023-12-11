@@ -5,7 +5,7 @@
 }
 
 .background_img {
-    background: url(/img/moon.jpg);
+    background: url(../img/moon.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -13,11 +13,26 @@
 
 .background_moon {
     background-color: #7cb3beb4;
-    border: #000;
+    border: 5px solid #03045e;
+    border-radius: 5px;
+}
+
+.inputs {
+    background-color: #7cb3beb4;
+    border: 3px solid #03045e;
+    border-radius: 9px;
 }
 
 .blanco {
     color: #fff;
+    text-decoration:none;
+}
+
+.negro {
+    color: #000;
+}
+
+.no {
     text-decoration:none;
 }
 
@@ -37,4 +52,8 @@
 
 .nave :hover {
     background-color: #00b4d8;
+}
+
+.cero {
+    opacity: 0;
 }
